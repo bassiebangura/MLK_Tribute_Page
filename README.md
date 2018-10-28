@@ -1,0 +1,1 @@
+Build a Tribute Page - A freecodecamp Project. This project puts to practice the HTML and CSS skills learned during the code challenges in the Responsive Wed Design certification path.
